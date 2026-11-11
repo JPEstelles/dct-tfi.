@@ -1,0 +1,13 @@
+SITIO DCT - versión estática
+Archivos: index.html, styles.css, app.js (no necesita servidor ni build).
+
+Ver en tu compu: doble clic en index.html.
+
+Publicar gratis:
+- Netlify: entrá a app.netlify.com/drop y arrastrá esta carpeta.
+- GitHub Pages: subí los 3 archivos a un repositorio, Settings > Pages > Deploy from branch (main, /root).
+- Vercel: vercel.com > Add New > Project > subí la carpeta.
+
+Formularios: hoy son de demostración (validan y confirman, no envían).
+Para recibir datos reales, la opción más simple es Netlify Forms o Formspree.
+Textos entre [corchetes] = por completar.
